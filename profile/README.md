@@ -4,7 +4,7 @@
   <a href="https://teamcodebridg.dev">
     <img src="https://img.shields.io/badge/-Official_Site-0e2232?style=flat">
   </a>
-  <a href="https://instagram.com/teamcodebridg">
+  <a href="https://instagram.com/teamcodebridge">
     <img src="https://img.shields.io/badge/-Instagram-0e2232?style=flat&logo=Instagram">
   </a>
   <a href="https://blog.naver.com/activejang">
@@ -19,4 +19,5 @@
   </a>
  
 </div>
+
 
