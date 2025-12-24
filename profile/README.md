@@ -1,7 +1,7 @@
 <img src="./팀코드브릿지_배너.jpg" width="100%" />
 
 <div align="left">
-  <a href="https://teamcodebrige.dev">
+  <a href="https://teamcodebridge.dev">
     <img src="https://img.shields.io/badge/-Official_Site-0e2232?style=flat">
   </a>
   <a href="https://instagram.com/teamcodebridge">
@@ -19,6 +19,7 @@
   </a>
  
 </div>
+
 
 
 
